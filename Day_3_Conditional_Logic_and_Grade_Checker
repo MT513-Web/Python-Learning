@@ -1,0 +1,33 @@
+marks = 75
+if marks >= 50:
+ print("Congratulations! You are pass." )
+else:
+   print("ohh! You are fail.")
+  
+
+temprature = 35
+if temprature >= 40:
+     print("it's summer.")
+elif temprature >= 30:
+     print("It's cool weather.")
+else:
+     print("It's cold.")
+
+     
+
+# print("-----Grade Checker-----")
+marks = int(input("Enter your marks:"))
+if marks < 0 or marks > 100:
+    print("Invalid Input! Please enter marks between 0 and 100.")
+elif marks >= 90:
+    print("Grade is A+.")
+elif marks >= 80:
+    print("Grade is A.")
+elif marks >= 70:
+    print("Grade is B.")
+elif marks >= 60:
+    print("Grade is C.")
+else:
+    print("Grade is F.")
+
+
