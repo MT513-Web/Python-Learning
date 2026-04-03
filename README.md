@@ -15,12 +15,14 @@ Welcome to my Python practice repository! I am a **BSCS Student**, and this is w
 | **Day 8** | **Mini Project** | **Smart Phonebook** (Validation, Search & Delete) |
 | **Day 9** | Tuples | Immutable Data, `.count()`, and `.index()` |
 | **Day 10** | Advanced Lists | Slicing `[start:stop]`, `.insert()`, & Sorting Logic |
+| **Day 11** | Functions | `def`, Parameters, `return` vs `print`, & Logic Reusability |
 
 ## 🛠️ Projects Included
 * **Grade Checker:** A system to calculate grades based on user input.
 * **Table Generator:** A tool that generates multiplication tables for any number.
 * **Smart Phonebook:** A contact management app with search and delete features.
 * **Grocery List Pro:** Advanced list management with slicing and sorting.
+* **Discount Calculator:** A function-based tool to calculate 10% off on any amount.
 
 ---
 *Follow my journey on [LinkedIn](https://www.linkedin.com/in/ayesha-afzal-)*
