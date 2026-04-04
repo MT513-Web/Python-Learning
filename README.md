@@ -16,13 +16,15 @@ Welcome to my Python practice repository! I am a **BSCS Student**, and this is w
 | **Day 9** | Tuples | Immutable Data, `.count()`, and `.index()` |
 | **Day 10** | Advanced Lists | Slicing `[start:stop]`, `.insert()`, & Sorting Logic |
 | **Day 11** | Functions | `def`, Parameters, `return` vs `print`, & Logic Reusability |
+| **Day 12** | Advanced Logic | Functions with If-Else, `while` loops, & `try-except` |
 
 ## 🛠️ Projects Included
-* **Grade Checker:** A system to calculate grades based on user input.
-* **Table Generator:** A tool that generates multiplication tables for any number.
+* **Grade Checker Pro:** Advanced grading system with input validation.
 * **Smart Phonebook:** A contact management app with search and delete features.
 * **Grocery List Pro:** Advanced list management with slicing and sorting.
 * **Discount Calculator:** A function-based tool to calculate 10% off on any amount.
+* **Weather Assistant:** A function-based tool to check temperature status.
+* **Even/Odd Loop:** A continuous number checker with error handling.
 
 ---
 *Follow my journey on [LinkedIn](https://www.linkedin.com/in/ayesha-afzal-)*
