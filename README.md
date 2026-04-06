@@ -17,14 +17,18 @@ Welcome to my Python practice repository! I am a **BSCS Student**, and this is w
 | **Day 10** | Advanced Lists | Slicing `[start:stop]`, `.insert()`, & Sorting Logic |
 | **Day 11** | Functions | `def`, Parameters, `return` vs `print`, & Logic Reusability |
 | **Day 12** | Advanced Logic | Functions with If-Else, `while` loops, & `try-except` |
+| **Day 13** | Pro Functions | Multiple Returns, Default Arguments, & Geometry Logic |
 
 ## 🛠️ Projects Included
-* **Grade Checker Pro:** Advanced grading system with input validation.
-* **Smart Phonebook:** A contact management app with search and delete features.
+* **Grade Checker:** A system to calculate grades based on user input.
+* **Table Generator:** A tool that generates multiplication tables for any number.
 * **Grocery List Pro:** Advanced list management with slicing and sorting.
 * **Discount Calculator:** A function-based tool to calculate 10% off on any amount.
+* **Smart Billing System:** Tax-inclusive billing tool with default tax rates.
+* **Rectangle Calculator:** Geometry tool to calculate Area and Perimeter at once.
+* **Grade Checker Pro:** Advanced grading system with input validation.
+* **Smart Phonebook:** A contact management app with search and delete features.
 * **Weather Assistant:** A function-based tool to check temperature status.
-* **Even/Odd Loop:** A continuous number checker with error handling.
 
 ---
 *Follow my journey on [LinkedIn](https://www.linkedin.com/in/ayesha-afzal-)*
