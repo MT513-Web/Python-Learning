@@ -19,8 +19,12 @@ Welcome to my Python practice repository! I am a **BSCS Student**, and this is w
 | **Day 12** | Advanced Logic | Functions with If-Else, `while` loops, & `try-except` |
 | **Day 13** | Pro Functions | Multiple Returns, Default Arguments, & Geometry Logic |
 | **Day 14** | Variable Scope | Local vs Global Variables & `global` Keyword |
+| **Day 15** | Dynamic Args | Working with `*args` and List Unpacking |
 
 ## 🛠️ Projects Included
+* **Party Guest Manager:** Dynamic guest list generator with guest counting.
+* **Movie Watchlist:** Multi-argument function to organize movies.
+* **Favorite Foods Shoutout:** User-input based food list with uppercase formatting.
 * **Access Denied System:** A secure login-based profile access simulation.
 * **Bank Balance Tracker:** Real-time balance updates using global modifiers.
 * **Smart Billing System:** Tax-inclusive billing tool with default tax rates.
@@ -29,8 +33,6 @@ Welcome to my Python practice repository! I am a **BSCS Student**, and this is w
 * **Smart Phonebook:** A contact management app with search and delete features.
 * **Weather Assistant:** A function-based tool to check temperature status.
 * **Even/Odd Loop:** A continuous number checker with error handling.
-* **Grocery List Pro:** Advanced list management with slicing and sorting.
-* **Discount Calculator:** A function-based tool to calculate 10% off on any amount.
 * **Table Generator:** A tool that generates multiplication tables for any number.
 
 ---
