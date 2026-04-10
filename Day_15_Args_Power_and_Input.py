@@ -15,7 +15,7 @@ def show_movies(*movies):
         print(f"I want to wathc: {m}")
 show_movies("The Lion king", "Inception")
 print("-" *20)
-show_movies("Batman", "Spiderman", "Ironman", "You", "Frozan") 
+show_movies("Batman", "Spiderman", "Ironman", "The Message", "Frozan") 
 
 
 
