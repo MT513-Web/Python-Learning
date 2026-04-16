@@ -20,8 +20,11 @@ Welcome to my Python practice repository! I am a **BSCS Student**, and this is w
 | **Day 13** | Pro Functions | Multiple Returns, Default Arguments, & Geometry Logic |
 | **Day 14** | Variable Scope | Local vs Global Variables & `global` Keyword |
 | **Day 15** | Dynamic Args | Working with `*args` and List Unpacking |
+| **Day 16** | Pro Kwargs | Handling `**kwargs` and Mixing All Parameters |
 
 ## 🛠️ Projects Included
+* **Digital Bio-Data Maker:** A key-value based profile generator.
+* **Eid Milan Event Manager:** A master function to manage guests and event details.
 * **Party Guest Manager:** Dynamic guest list generator with guest counting.
 * **Movie Watchlist:** Multi-argument function to organize movies.
 * **Favorite Foods Shoutout:** User-input based food list with uppercase formatting.
