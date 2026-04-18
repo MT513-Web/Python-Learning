@@ -21,6 +21,8 @@ Welcome to my Python practice repository! I am a **BSCS Student**, and this is w
 | **Day 14** | Variable Scope | Local vs Global Variables & `global` Keyword |
 | **Day 15** | Dynamic Args | Working with `*args` and List Unpacking |
 | **Day 16** | Pro Kwargs | Handling `**kwargs` and Mixing All Parameters |
+| **Day 17** | Lambda/Filter/Map | Anonymous Functions & Data Transformation |
+| **Day 18** | Recursion | Base Cases and Recursive Function Calls |
 
 ## 🛠️ Projects Included
 * **Digital Bio-Data Maker:** A key-value based profile generator.
