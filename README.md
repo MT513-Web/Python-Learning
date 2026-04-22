@@ -23,22 +23,31 @@ Welcome to my Python practice repository! I am a **BSCS Student**, and this is w
 | **Day 16** | Pro Kwargs | Handling `**kwargs` and Mixing All Parameters |
 | **Day 17** | Lambda/Filter/Map | Anonymous Functions & Data Transformation |
 | **Day 18** | Recursion | Base Cases and Recursive Function Calls |
+| **Day 19** | Modules | Modular programming: Separating Logic from Main |
 
-## 🛠️ Projects Included
-* **Digital Bio-Data Maker:** A key-value based profile generator.
-* **Eid Milan Event Manager:** A master function to manage guests and event details.
-* **Party Guest Manager:** Dynamic guest list generator with guest counting.
+
+## 🛠️ Projects Portfolio
+
+### 🎮 Games & Entertainment
+* **Guessing Game (Modular):** A modular number guessing game logic.
 * **Movie Watchlist:** Multi-argument function to organize movies.
 * **Favorite Foods Shoutout:** User-input based food list with uppercase formatting.
+
+### 💼 Management Systems
+* **Smart Phonebook:** Contact management app with search and delete.
+* **Eid Milan Event Manager:** Master function for guest and event details.
+* **Party Guest Manager:** Dynamic guest list generator.
 * **Access Denied System:** A secure login-based profile access simulation.
 * **Bank Balance Tracker:** Real-time balance updates using global modifiers.
-* **Smart Billing System:** Tax-inclusive billing tool with default tax rates.
-* **Rectangle Calculator:** Geometry tool to calculate Area and Perimeter at once.
-* **Grade Checker Pro:** Advanced grading system with input validation.
-* **Smart Phonebook:** A contact management app with search and delete features.
-* **Weather Assistant:** A function-based tool to check temperature status.
-* **Even/Odd Loop:** A continuous number checker with error handling.
-* **Table Generator:** A tool that generates multiplication tables for any number.
 
----
+### 🧮 Utilities & Math Tools
+* **Smart Billing System:** Tax-inclusive billing tool.
+* **Rectangle Calculator:** Geometry tool (Area & Perimeter).
+* **Grade Checker Pro:** Advanced grading system with input validation.
+* **Weather Assistant:** Temperature status tool.
+* **Even/Odd Loop:** Number checker with error handling.
+* **Table Generator:** Multiplication tables tool.
+* **Digital Bio-Data Maker:** Key-value based profile generator.
+
+----
 *Follow my journey on [LinkedIn](https://www.linkedin.com/in/ayesha-afzal-)*
