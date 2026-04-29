@@ -1,8 +1,8 @@
-# 🐍 Python Learning Journey
+#  Python Learning Journey
 
 Welcome to my Python practice repository! I am a **BSCS Student**, and this is where I document my daily progress, assignments, and mini-projects.
 
-## 🚀 Daily Progress Tracker
+##  Daily Progress Tracker
 
 | Day | Topic | Key Concepts |
 | :--- | :--- | :--- |
@@ -24,6 +24,7 @@ Welcome to my Python practice repository! I am a **BSCS Student**, and this is w
 | **Day 17** | Lambda/Filter/Map | Anonymous Functions & Data Transformation |
 | **Day 18** | Recursion | Base Cases and Recursive Function Calls |
 | **Day 19** | Modules | Modular programming: Separating Logic from Main |
+| **Day 20** | Data Management | Student Management System (CRUD) |
 
 
 ## 🛠️ Projects Portfolio
@@ -39,6 +40,7 @@ Welcome to my Python practice repository! I am a **BSCS Student**, and this is w
 * **Party Guest Manager:** Dynamic guest list generator.
 * **Access Denied System:** A secure login-based profile access simulation.
 * **Bank Balance Tracker:** Real-time balance updates using global modifiers.
+* **Student Management System (Modular):** CRUD operations for student records.
 
 ### 🧮 Utilities & Math Tools
 * **Smart Billing System:** Tax-inclusive billing tool.
