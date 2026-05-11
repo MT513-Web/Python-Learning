@@ -25,6 +25,11 @@ Welcome to my Python practice repository! I am a **BSCS Student**, and this is w
 | **Day 18** | Recursion | Base Cases and Recursive Function Calls |
 | **Day 19** | Modules | Modular programming: Separating Logic from Main |
 | **Day 20** | Data Management | Student Management System (CRUD) |
+| **Day 21-25** | **Advanced Logic** | Mastering Nested Loops, Dictionaries, and Modular Functions |
+| **Day 26-30** | **File Handling** | Tuples, Sets, File I/O (.txt), and Error Handling (Try-Except) |
+| **Day 31-35** | **NumPy Basics** | Arrays, Vectorized Operations, and Basic Statistical Analysis |
+| **Day 36-40** | **Pandas Intro** | Loading CSVs, Data Cleaning (.fillna), and Boolean Indexing |
+| **Day 41-45** | **Final Analytics** | Data Aggregation, Merging Datasets, and Master Project |
 
 
 ## 🛠️ Projects Portfolio
@@ -50,6 +55,21 @@ Welcome to my Python practice repository! I am a **BSCS Student**, and this is w
 * **Even/Odd Loop:** Number checker with error handling.
 * **Table Generator:** Multiplication tables tool.
 * **Digital Bio-Data Maker:** Key-value based profile generator.
+
+### 📊 Data Science & Business Analytics
+* **Professional Data Cleaning Tool (Day 38-40):** Automated null detection and logic-based filling for messy datasets.
+* **Social Media Engagement Analyzer (Day 43):** Extracted Month/Day trends from raw timestamps to identify peak interaction periods.
+* **Multi-Dataset Inventory Integrator (Day 44):** Used `pd.merge` to create a unified view by connecting product and price databases.
+* **Master Business Intelligence Script (Day 45):** A complete end-to-end graduation project automating categorical profit reporting for stores.
+
+---
+## 🚀 What's Next? (Phase 2)
+After successfully completing **Phase 1 (The Foundation)**, I am taking a short break to focus on my **Academic Commitments**. I will resume my journey in **August 2026** with a focus on advanced data visualization and AI.
+
+**Upcoming Goals:**
+* 📈 **Advanced Visualization:** Mastering Matplotlib & Seaborn to turn data into stories.
+* 🤖 **Machine Learning:** Introduction to Scikit-Learn for predictive modeling.
+* 🌐 **Deployment:** Building interactive dashboards using Streamlit.
 
 ----
 *Follow my journey on [LinkedIn](https://www.linkedin.com/in/ayesha-afzal-)*
