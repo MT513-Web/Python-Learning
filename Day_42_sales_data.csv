@@ -1,0 +1,7 @@
+Transaction_ID,Category,Product,Amount,Date
+1,Electronics,Laptop,1200,2026-05-01
+2,Clothing,Shirt,50,2026-05-01
+3,Electronics,Mouse,25,2026-05-02
+4,Home,Lamp,100,2026-05-02
+5,Clothing,Jeans,80,2026-05-03
+6,Electronics,Monitor,300,2026-05-03

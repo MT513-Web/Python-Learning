@@ -1,0 +1,3 @@
+Item Name: ice-cream, Price: 50
+Item Name: Biryani, Price: 150
+Item Name: Ice_craem, Price: 150

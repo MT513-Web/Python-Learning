@@ -1,0 +1,9 @@
+Adding another student: Amna
+python
+Good you have learned python today.   
+Good you have learned CSS today. 
+Good you have learned C++ today. 
+Good you have learned C# today. 
+Good you have learned JS. 
+Good you have learned 'JS'. 
+Good you have learned 'Sabar'. 
